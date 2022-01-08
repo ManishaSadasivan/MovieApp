@@ -1,0 +1,30 @@
+.AddNewMovie{
+   
+    padding:10px;
+    text-align:left;
+    margin-left:20px;
+    border-radius:5px;
+    background:teal;
+}
+.ListItem{
+    list-style: none;
+  
+}
+.header{
+    font-family: cursive;
+    font-size:26px;
+    background:black;
+    display:flex; 
+    padding:10px;
+    color:white;
+    
+}
+.button{
+    
+    width:10%;
+}
+.buttonDiv{
+    text-align:center;
+    background:rgb(16, 17, 17);
+    
+}

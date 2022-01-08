@@ -1,0 +1,30 @@
+.movieposter{
+    height:500px;
+    width:350px;
+    object-fit: cover;
+}
+.moviespecs{
+    display:flex;
+    justify-content: space-between;
+}
+.Movie-container{
+    width:350px;
+    
+   padding:5px;
+}
+.Movie-container:hover {
+    background-color:rgb(168, 163, 163);
+   }
+.Movierating{
+    margin: 4px;
+}
+.Moviename{
+    margin:0px;
+    padding-top: 8px;
+}
+.Movielist{
+    display:flex;
+
+   padding:5px;
+   flex-wrap: wrap;
+}
